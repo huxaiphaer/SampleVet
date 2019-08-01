@@ -1,0 +1,8 @@
+
+osquid:S3008"QRename this field "APP_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÅÕ8ù†ÿìÄ-
+"squid:ClassVariableVisibilityCheck"TMake MAIN_URL a static final constant or non-public and provide accessors if needed.(È³Öüÿÿÿÿ8ûú”êÄ-
+vsquid:S3008"SRename this field "MAIN_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È³Öüÿÿÿÿ8ûú”êÄ-
+Qsquid:S1444".Make this "public static MAIN_URL" field final(È³Öüÿÿÿÿ8ûú”êÄ-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(¼Øûì8«Õ”êÄ-
+‡"squid:ClassVariableVisibilityCheck"RMake APP_ID a static final constant or non-public and provide accessors if needed.(”ÅÕ8ù†ÿìÄ-
+Jsquid:S1444",Make this "public static APP_ID" field final(”ÅÕ8ù†ÿìÄ-

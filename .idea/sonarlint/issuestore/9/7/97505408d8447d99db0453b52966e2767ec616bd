@@ -1,0 +1,4 @@
+
+Osquid:S1068",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ8·§ŸêÄ-
+tsquid:S001161"URename this field "place_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¶ï™8ú™êÄ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÇ¾õÿÿÿÿÿ8Ò¨êÄ-

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/navigation_graph"
+            app:startDestination="@id/mainFragment2">
+    <fragment android:id="@+id/mainFragment2" android:name="com.huxy.samplevet.views.MainFragment"
+              android:label="Home" tools:layout="@layout/fragment_main">
+        <action android:id="@+id/action_mainFragment2_to_bookmarking" app:destination="@id/bookmarking"/>
+    </fragment>
+    <fragment android:id="@+id/bookmarking" android:name="com.huxy.samplevet.views.BookmarkingFragment"
+              android:label="Bookmarked Cities" tools:layout="@layout/fragment_bookmarking">
+        <action android:id="@+id/action_bookmarking_to_weatherFragment" app:destination="@id/weatherFragment"/>
+        <argument android:name="latitude" app:argType="string"/>
+        <argument android:name="longitude" app:argType="string"/>
+    </fragment>
+    <fragment android:id="@+id/weatherFragment" android:name="com.huxy.samplevet.views.WeatherFragment"
+              android:label="Weather Forecast" tools:layout="@layout/fragment_weather">
+        <argument android:name="longitude" app:argType="string"/>
+        <argument android:name="latitude" app:argType="string"/>
+    </fragment>
+</navigation>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493286477876",
+    "firebase_url": "https://vetapp-46769.firebaseio.com",
+    "project_id": "vetapp-46769",
+    "storage_bucket": "vetapp-46769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493286477876:android:9cec99fa524d0ed1",
+        "android_client_info": {
+          "package_name": "com.huxy.samplevet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493286477876-e654e2vjog062af45e4deb38r18f99bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huxy.samplevet",
+            "certificate_hash": "f8197788599c9be05cfe2b7f94f86ec5b312f4df"
+          }
+        },
+        {
+          "client_id": "493286477876-a476505dffj761gcfovb2o7qspurfe3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOG6GwaM4QtNQkZmOPNkcGgK5lQxhboag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493286477876-a476505dffj761gcfovb2o7qspurfe3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

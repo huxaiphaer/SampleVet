@@ -1,0 +1,5 @@
+
+~squid:S1450"`Remove the "weatherRepository" field and declare it as a local variable in the relevant methods.(ôŠÒ8§ı íÄ-
+asquid:S1854%"CRemove this useless assignment to local variable "mutableLiveData".(±ºòî8§ı íÄ-
+lsquid:HiddenFieldCheck%"CRename "mutableLiveData" which hides the field declared at line 15.(±ºòî8¿€¢íÄ-
+Rsquid:S1481%"4Remove this unused "mutableLiveData" local variable.(±ºòî8¿€¢íÄ-
